@@ -4,7 +4,7 @@
 
 ### Background
 
-A Solidity smart contract that accepts two user addresses to automate the setup of joint savings accounts. A joint savings account will be accessible to these addresses. The smart contract will implement a financial institution's needs for delivering shared savings account features using ether management functions including the ability to deposit and withdraw money from the account.
+A Solidity smart contract that accepts two user addresses to automate the setup of joint savings accounts. A combined savings account will be accessible to these addresses. The smart contract will implement a financial institution's needs for delivering shared savings account features using ether management functions, including the ability to deposit and withdraw money from the account.
 
 ---
 
