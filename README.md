@@ -13,32 +13,32 @@ A Solidity smart contract that accepts two user addresses to automate the setup 
 1. Create a joint savings account contract in solidity
 
 *Solidity Contract*
-![solidity contract](Images/Solidity_contract.png)
+![Solidity contract](Execution_Results/Solidity_contract.png)
 
 2. Compile and deploy the contract in the JavaScript VM
 
 *Compile*
-![Compile](Images/Compile.PNG)
+![Compile](Execution_Results/Compile.PNG)
 
 *Deploy*
-![Deploy](Images/Deploy.PNG)
+![Deploy](Execution_Results/Deploy.PNG)
 
 3. Interact with the deployed smart contract
 
 *Send 1 ether as wei*
-![Send 1 ether](Images/Send_1_ether_as_wei.PNG)
+![Send 1 ether](Execution_Results/Send_1_ether_as_wei.PNG)
 
 *Send 10 ether as wei*
-![Send 10 ether](Images/Send_10_ether_as_wei.PNG)
+![Send 10 ether](Execution_Results/Send_10_ether_as_wei.PNG)
 
 *Send 5 ether*
-![Send 5 ether](Images/Send_5_ether.PNG)
+![Send 5 ether](Execution_Results/Send_5_ether.PNG)
 
 *Withdraw 5 ether into accountOne*
-![Withdraw 5](Images/Withdraw_5_ether.PNG)
+![Withdraw 5](Execution_Results/Withdraw_5_ether.PNG)
 
 *Withdraw 10 ether into accountTwo*
-![Withdraw 10](Images/Withdraw_10_ether.PNG)
+![Withdraw 10](Execution_Results/Withdraw_10_ether.PNG)
 
 ![Banner](Images/banner.jpg)
 
